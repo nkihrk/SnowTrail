@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/snow_trail.unity
+  isLoaded: 1
+  isActive: 1
